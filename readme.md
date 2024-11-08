@@ -30,7 +30,7 @@ For this assignment I want you to watch the following two videos and create your
 
 6. Push your code to Github.
 
-7. After the Gihub actions workflow is successful, take a screenshot of your DockerHub account.
+7. After the Gihub actions workflow is successful, take a screenshot of your DockerHub account. Then add the screenshot to `readme.md` file.
 
 ## Requirement
 
